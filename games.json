@@ -1,0 +1,22 @@
+{
+  "cheats": [
+    {
+      "name": "Exterium",
+      "description": "Exterium Cheat",
+      "serverIP": "45.155.124.180",
+      "serverPort": 1234,
+      "tempFileName": "exterium.exe",
+      "exeFileName": "exterium.exe",
+      "requiresAdmin": true
+    },
+    {
+      "name": "MTA Bypass",
+      "description": "MTA Bypass",
+      "serverIP": "45.155.124.180",
+      "serverPort": 1234,
+      "tempFileName": "mtabypass.exe",
+      "exeFileName": "mtabypass.exe",
+      "requiresAdmin": true
+    }
+  ]
+}
