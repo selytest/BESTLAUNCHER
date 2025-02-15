@@ -17,6 +17,33 @@
       "tempFileName": "mtabypass.exe",
       "exeFileName": "mtabypass.exe",
       "requiresAdmin": true
+    },
+    {
+      "name": "Invictus",
+      "description": "Invictus Cheat",
+      "serverIP": "45.155.124.180",
+      "serverPort": 1234,
+      "tempFileName": "invictus.exe",
+      "exeFileName": "invictus.exe",
+      "requiresAdmin": true
+    },
+    {
+      "name": "Carnage",
+      "description": "Carnage Cheat",
+      "serverIP": "45.155.124.180",
+      "serverPort": 1234,
+      "tempFileName": "carnage.exe",
+      "exeFileName": "carnage.exe",
+      "requiresAdmin": true
+    },
+    {
+      "name": "Owl Engine",
+      "description": "Owl Engine Cheat",
+      "serverIP": "45.155.124.180",
+      "serverPort": 1234,
+      "tempFileName": "owl.exe",
+      "exeFileName": "owl.exe",
+      "requiresAdmin": true
     }
   ]
-}
+} 
