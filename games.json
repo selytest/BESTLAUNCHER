@@ -11,11 +11,11 @@
     },
     {
       "name": "MTA Bypass",
-      "description": "MTA Bypass",
+      "description": "MTA Bypass Description",
       "serverIP": "45.155.124.180",
       "serverPort": 1234,
-      "tempFileName": "mtabypass.exe",
-      "exeFileName": "mtabypass.exe",
+      "tempFileName": "mta bypass.exe",
+      "exeFileName": "mta bypass.exe",
       "requiresAdmin": true
     },
     {
